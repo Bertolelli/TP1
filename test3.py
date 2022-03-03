@@ -1,0 +1,1 @@
+va = int(input())
