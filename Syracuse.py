@@ -1,4 +1,4 @@
-print("Entrez un entier strictement positif : ")
+print("Entrer un entier strictement positif : ")
 var = int(input())
 L = [float(var)]
 while var !=1:
